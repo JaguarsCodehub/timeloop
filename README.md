@@ -1,4 +1,4 @@
 # BreakTheLoop
 ## Infinite Game Loop
 
-Game COMING SOOOON
+Game COMING SOOOON TO BE BUILT
